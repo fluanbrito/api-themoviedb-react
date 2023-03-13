@@ -4,8 +4,6 @@
 
 #### Francisco Luan Ferreira Brito
 
-Este repositório foi criado e desenvolvido para a avaliação da segunda sprint do programa de bolsas Compass.uol para formação em machine learning para AWS.
-
 Este projeto trata-se da escolha de uma API pública para ser consumida com NODEJS, em uma página HTML simples.
 
 ## Sobre a API pública e a conclusão da avaliação
